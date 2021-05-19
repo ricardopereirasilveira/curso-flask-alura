@@ -17,3 +17,6 @@ Back-end:
 
 Database:
 - MySQL
+
+
+O curso basicamente cria uma aplicação online de cadastro, edição e remoção de jogos em uma plataforma, além da possibilidade de inserção de fotos tanto na criação quanto na edição. O sistema tem alguns bugs que não serão concertados neste momento.
